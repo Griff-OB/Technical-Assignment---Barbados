@@ -1,4 +1,4 @@
-# Barbados Health Facility Registry - Data Engineering Pipeline
+# Technical Assignment - Barbados
 
 ##  Video Presentation
 https://www.loom.com/share/b13e350623fa44ac8b5b0402c7833569  
